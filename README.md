@@ -65,12 +65,8 @@ Task-2-Data-Visualization/
 ├── Dashboard.pbix
 ├── Dashboard.pdf
 ├── README.md
-└── screenshots/
-    ├── dashboard.png
-    ├── sales_by_category.png
-    ├── profit_by_region.png
-    ├── monthly_sales_trend.png
-    └── top_10_products.png
+└── dashboard.png 
+
 ```
 
 ## Skills Demonstrated
